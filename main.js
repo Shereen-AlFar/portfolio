@@ -12,7 +12,7 @@ allSideMenu.forEach(item => {
     });
 });
 
-const  = document.querySelector('#content nav .bx.bx-menu');
+const menuBar = document.querySelector('#content nav .bx.bx-menu');
 const sidebar = document.getElementById('sidebar');
 var mainn = document.querySelector("main");
 var imgPrudct = document.querySelectorAll(".ch1-p1-ch1 img");
